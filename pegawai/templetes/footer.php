@@ -6,7 +6,7 @@
                 Copyright ©
                 <script>
                   document.write(new Date().getFullYear())
-                </script> Ahmad Fauzan
+                </script> Andhika Prastya
               </span>
           </div>
         </div>
